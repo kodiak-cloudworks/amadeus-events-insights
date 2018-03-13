@@ -1,0 +1,1 @@
+# amadeus-events-insights
