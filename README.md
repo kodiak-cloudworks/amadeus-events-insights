@@ -1,1 +1,1 @@
-# amadeus-events-insights
+# Amadeus Events Insights
